@@ -1,4 +1,4 @@
-# Airbnb-Berlin-data-visualization
+# Airbnb-Berlin-data-visualization using Tableau
 Tableau visualisation of airbnb data
 The aim of the project is to build interactive Dashboard on Airbnb accommodation in berlin with tableau. 
 
